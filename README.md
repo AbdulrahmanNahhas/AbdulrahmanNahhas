@@ -1,5 +1,4 @@
 [![MasterHead](Youtube%20Banner.png)](https://github.com/AbdulrahmanNahhas)
-Youtube%20Banner.png
 <h1 align="center">Hi 👋, I'm Abdulrahman Nahhas</h1>
 <h3 align="center">Im Only A Small Full Stack Programmer</h3>
 
