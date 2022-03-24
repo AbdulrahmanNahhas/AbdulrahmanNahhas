@@ -25,6 +25,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanNahhas&show_icons=true&theme=radical&locale=en&layout=compact" alt="AbdulrahmanNahhas" />
 
 <h3 align="left">Projects:</h3>
-<a href="https://abdulrahmannahhas.github.io/portfolioDesign">1) Portfolio Web Design</a>
+<a href="https://abdulrahmannahhas.github.io/Quran-App/">1) Quran App</a>
 <br>
-<a href="https://abdulrahmannahhas.github.io/2048-game">2) 2048 game.</a>
+<a href="https://abdulrahmannahhas.github.io/portfolioDesign">2) Portfolio Web Design</a>
+<br>
+<a href="https://abdulrahmannahhas.github.io/2048-game">3) 2048 game.</a>
