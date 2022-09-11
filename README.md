@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Nahhas</h1>
-<h3 align="center">Im Only A Small Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmannahhas&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmannahhas" /> </p>
 
-- 🌱 I’m currently learning **React.js, C++ and Python**
+- 🌱 I’m currently learning **C++ and Python**
 
 <!-- - 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon) -->
 
-- 💬 Ask me about **html, css, javascript, express and mongodb**
+- 💬 Ask me about **c++, html, css, javascript, express and mongodb**
 
 - 📫 How to reach me **nahhas909@gmail.com**
 
