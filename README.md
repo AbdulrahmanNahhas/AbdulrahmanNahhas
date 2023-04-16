@@ -10,7 +10,7 @@
 
 [Click on me to go to my website](https://nahhas.vercel.app/)
 
-<br />
+---
 
 ## About me
 
