@@ -10,12 +10,12 @@ Hello! I’m Abdulrahman Nahhas, a 17-year-old programmer from Syria with a deep
 
 1. **Web development:**
   -	HTML, CSS, JavaScript, TypeScript
-	-	Node.js, Express.js, Supabase
-	-	React.js, Next.js
-	-	Tailwind CSS, Shadcn/ui
-	-	MongoDB, PostgreSQL
-	-	Authjs (Next-Auth), Clerk
-	-	and more…
+  -	Node.js, Express.js, Supabase
+  -	React.js, Next.js
+  -	Tailwind CSS, Shadcn/ui
+  -	MongoDB, PostgreSQL
+  -	Authjs (Next-Auth), Clerk
+  -	and more…
 2. **Electronics:**
   - Basic electronics (components, circuits, and laws)
   - C,and C++
