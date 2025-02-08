@@ -40,4 +40,5 @@ I am currently in grade 12 and plan to pursue a degree in Mechatronics Engineeri
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanNahhas&show_icons=true&locale=en&theme=holi" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanNahhas&layout=compact&theme=holi" alt="Top Languages" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulrahmanNahhas&theme=transparent" alt="GitHub Streak Stats" />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67a5dbecf863343482999c3c?variant=light&roadmaps=flutter%2Ccpp" alt="roadmap.sh"/></a>
 </div>
