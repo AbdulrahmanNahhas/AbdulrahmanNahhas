@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="30%" src="https://github.com/AbdulrahmanNahhas/AbdulrahmanNahhas/blob/main/images/gitlab-banner.jpg"/>
+  <img width="100%" src="https://github.com/AbdulrahmanNahhas/AbdulrahmanNahhas/blob/main/images/gitlab-banner.jpg"/>
 </div>
 
 # 🚨 I've Moved to GitLab!
