@@ -40,7 +40,7 @@ I'm a developer and university student from **Homs, Syria** 🇸🇾, bridging t
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=AbdulrahmanNahhas&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=AbdulrahmanNahhas&theme=tokyonight&no-frame=true&margin-w=15&column=5" alt="Trophies" />
 </div>
 
 ---
